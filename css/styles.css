@@ -159,6 +159,12 @@ h1 {
   font-size:70%
 }
 
+.card.cat.card-back{
+  display: none;
+  width:fit-content;
+  block-size:fit-content;
+}
+
 p {
   font-family: 'Courier New', Courier, monospace;
   margin-left: 20%;

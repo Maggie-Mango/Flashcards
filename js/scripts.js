@@ -132,3 +132,10 @@ $(document).ready(function() {
     $(".card.atr.card-back").slideToggle();
   });
 });
+
+$(document).ready(function() {
+  $(".card.cat").click(function() {
+    $(".card.cat.card-front").slideToggle();
+    $(".card.cat.card-back").slideToggle();
+  });
+});
