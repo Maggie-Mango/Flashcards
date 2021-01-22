@@ -7,7 +7,31 @@ h1 {
   cursor: pointer;
 }
 
-.card.card-back {
+.card.js.card-back {
+  display: none;
+  width:fit-content;
+  block-size:fit-content;
+  word-wrap: break-word;
+  font-size:70%
+}
+
+.card.op.card-back{
+  display: none;
+  width:fit-content;
+  block-size:fit-content;
+  word-wrap: break-word;
+  font-size:70%
+}
+
+.card.vb.card-back{
+  display: none;
+  width:fit-content;
+  block-size:fit-content;
+  word-wrap: break-word;
+  font-size:70%
+}
+
+.card.vn.card-back{
   display: none;
   width:fit-content;
   block-size:fit-content;
