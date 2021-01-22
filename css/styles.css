@@ -27,6 +27,7 @@ p {
     margin-bottom: 30px;
   }
 }
+
 .card {
   box-shadow: 0 4px 8px 0;
   height: 100px;
@@ -34,4 +35,11 @@ p {
   margin-bottom: 10px;
   flex-wrap: wrap;
   background-color: whitesmoke;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  ;
+}
+
+.card h3 {
+  font-size: 20px;
+  text-align: center;
 }
