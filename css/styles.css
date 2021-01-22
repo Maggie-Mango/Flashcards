@@ -3,6 +3,14 @@ h1 {
   font-family: 'Courier New', Courier, monospace;
 }
 
+.card {
+  cursor: pointer;
+}
+
+.card.card-back {
+  display: none;
+}
+
 p {
   font-family: 'Courier New', Courier, monospace;
   margin-left: 20%;
