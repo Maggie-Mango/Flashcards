@@ -32,5 +32,5 @@ Clicking again will switch the card back to the term.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-##Link
-https://github.com/Maggie-Mango/Flashcards
+## Link
+https://maggie-mango.github.io/Flashcards/
