@@ -9,6 +9,10 @@ h1 {
 
 .card.card-back {
   display: none;
+  width:fit-content;
+  block-size:fit-content;
+  word-wrap: break-word;
+  font-size:70%
 }
 
 p {
