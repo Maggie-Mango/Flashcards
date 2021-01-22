@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+/* responsive columns based on browser*/
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 30px;
+  }
+}
+.card {
+  box-shadow: 0 4px 8px 0;
+  height: 100px;
+  padding: 20px;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+  background-color: whitesmoke;
+}
