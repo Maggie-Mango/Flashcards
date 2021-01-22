@@ -55,3 +55,80 @@ $(document).ready(function() {
     $(".card.p.card-back").slideToggle();
   });
 });
+
+$(document).ready(function() {
+  $(".card.r").click(function() {
+    $(".card.r.card-front").slideToggle();
+    $(".card.r.card-back").slideToggle();
+  });
+});
+
+$(document).ready(function() {
+  $(".card.cm").click(function() {
+    $(".card.cm.card-front").slideToggle();
+    $(".card.cm.card-back").slideToggle();
+  });
+});
+
+$(document).ready(function() {
+  $(".card.s").click(function() {
+    $(".card.s.card-front").slideToggle();
+    $(".card.s.card-back").slideToggle();
+  });
+});
+
+$(document).ready(function() {
+  $(".card.b").click(function() {
+    $(".card.b.card-front").slideToggle();
+    $(".card.b.card-back").slideToggle();
+  });
+});
+
+$(document).ready(function() {
+  $(".card.u").click(function() {
+    $(".card.u.card-front").slideToggle();
+    $(".card.u.card-back").slideToggle();
+  });
+});
+
+$(document).ready(function() {
+  $(".card.nan").click(function() {
+    $(".card.nan.card-front").slideToggle();
+    $(".card.nan.card-back").slideToggle();
+  });
+});
+
+$(document).ready(function() {
+  $(".card.null").click(function() {
+    $(".card.null.card-front").slideToggle();
+    $(".card.null.card-back").slideToggle();
+  });
+});
+
+$(document).ready(function() {
+  $(".card.al").click(function() {
+    $(".card.al.card-front").slideToggle();
+    $(".card.al.card-back").slideToggle();
+  });
+});
+
+$(document).ready(function() {
+  $(".card.co").click(function() {
+    $(".card.co.card-front").slideToggle();
+    $(".card.co.card-back").slideToggle();
+  });
+});
+
+$(document).ready(function() {
+  $(".card.jq").click(function() {
+    $(".card.jq.card-front").slideToggle();
+    $(".card.jq.card-back").slideToggle();
+  });
+});
+
+$(document).ready(function() {
+  $(".card.atr").click(function() {
+    $(".card.atr.card-front").slideToggle();
+    $(".card.atr.card-back").slideToggle();
+  });
+});

@@ -71,6 +71,94 @@ h1 {
   font-size:70%
 }
 
+.card.r.card-back{
+  display: none;
+  width:fit-content;
+  block-size:fit-content;
+  word-wrap: break-word;
+  font-size:70%
+}
+
+.card.cm.card-back{
+  display: none;
+  width:fit-content;
+  block-size:fit-content;
+  word-wrap: break-word;
+  font-size:70%
+}
+
+.card.s.card-back{
+  display: none;
+  width:fit-content;
+  block-size:fit-content;
+  word-wrap: break-word;
+  font-size:70%
+}
+
+.card.b.card-back{
+  display: none;
+  width:fit-content;
+  block-size:fit-content;
+  word-wrap: break-word;
+  font-size:70%
+}
+
+.card.u.card-back{
+  display: none;
+  width:fit-content;
+  block-size:fit-content;
+  word-wrap: break-word;
+  font-size:70%
+}
+
+.card.nan.card-back{
+  display: none;
+  width:fit-content;
+  block-size:fit-content;
+  word-wrap: break-word;
+  font-size:70%
+}
+
+.card.null.card-back{
+  display: none;
+  width:fit-content;
+  block-size:fit-content;
+  word-wrap: break-word;
+  font-size:70%
+}
+
+.card.al.card-back{
+  display: none;
+  width:fit-content;
+  block-size:fit-content;
+  word-wrap: break-word;
+  font-size:70%
+}
+
+.card.co.card-back{
+  display: none;
+  width:fit-content;
+  block-size:fit-content;
+  word-wrap: break-word;
+  font-size:70%
+}
+
+.card.jq.card-back{
+  display: none;
+  width:fit-content;
+  block-size:fit-content;
+  word-wrap: break-word;
+  font-size:70%
+}
+
+.card.atr.card-back{
+  display: none;
+  width:fit-content;
+  block-size:fit-content;
+  word-wrap: break-word;
+  font-size:70%
+}
+
 p {
   font-family: 'Courier New', Courier, monospace;
   margin-left: 20%;
