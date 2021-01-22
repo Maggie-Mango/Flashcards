@@ -27,3 +27,31 @@ $(document).ready(function() {
     $(".card.vn.card-back").slideToggle();
   });
 });
+
+$(document).ready(function() {
+  $(".card.f").click(function() {
+    $(".card.f.card-front").slideToggle();
+    $(".card.f.card-back").slideToggle();
+  });
+});
+
+$(document).ready(function() {
+  $(".card.m").click(function() {
+    $(".card.m.card-front").slideToggle();
+    $(".card.m.card-back").slideToggle();
+  });
+});
+
+$(document).ready(function() {
+  $(".card.a").click(function() {
+    $(".card.a.card-front").slideToggle();
+    $(".card.a.card-back").slideToggle();
+  });
+});
+
+$(document).ready(function() {
+  $(".card.p").click(function() {
+    $(".card.p.card-front").slideToggle();
+    $(".card.p.card-back").slideToggle();
+  });
+});

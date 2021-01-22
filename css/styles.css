@@ -39,6 +39,38 @@ h1 {
   font-size:70%
 }
 
+.card.f.card-back{
+  display: none;
+  width:fit-content;
+  block-size:fit-content;
+  word-wrap: break-word;
+  font-size:70%
+}
+
+.card.m.card-back{
+  display: none;
+  width:fit-content;
+  block-size:fit-content;
+  word-wrap: break-word;
+  font-size:70%
+}
+
+.card.a.card-back{
+  display: none;
+  width:fit-content;
+  block-size:fit-content;
+  word-wrap: break-word;
+  font-size:70%
+}
+
+.card.p.card-back{
+  display: none;
+  width:fit-content;
+  block-size:fit-content;
+  word-wrap: break-word;
+  font-size:70%
+}
+
 p {
   font-family: 'Courier New', Courier, monospace;
   margin-left: 20%;
